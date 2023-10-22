@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="https://mikeryan.name/tags/wired">
+  <channel>
+    <title>Wired</title>
+    <link>https://mikeryan.name/tags/wired</link>
+    <description/>
+    <language>en</language>
+    
+    <item>
+  <title>Wired #triplefail</title>
+  <link>https://mikeryan.name/blog-entry/wired-triplefail</link>
+  <description>
+&lt;article role="article" about="https://mikeryan.name/blog-entry/wired-triplefail" class="node node--type-blog node--promoted node--view-mode-teaser clearfix"&gt;&lt;header&gt;&lt;h2 class="node__title"&gt;
+        &lt;a href="https://mikeryan.name/blog-entry/wired-triplefail" rel="bookmark"&gt;&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Wired #triplefail&lt;/span&gt;
+&lt;/a&gt;
+      &lt;/h2&gt;
+        
+          &lt;div class="node__meta"&gt;
+        &lt;article typeof="schema:Person" about="https://mikeryan.name/user/mikeryan" class="profile"&gt;&lt;div class="field field--name-user-picture field--type-image field--label-hidden field__item"&gt;  &lt;a href="https://mikeryan.name/user/mikeryan"&gt;&lt;img src="https://mikeryan.name/sites/default/files/styles/thumbnail/public/pictures/picture-3.jpg?itok=Yp7RxlCn" width="85" height="85" alt="Profile picture for user mikeryan" typeof="foaf:Image" class="image-style-thumbnail" /&gt;&lt;/a&gt;
+&lt;/div&gt;
+      &lt;/article&gt;&lt;span&gt;
+          Submitted by &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://mikeryan.name/user/mikeryan" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;mikeryan&lt;/span&gt;&lt;/span&gt;
+ on &lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Mon, 05/19/2014 - 11:12am&lt;/span&gt;
+        &lt;/span&gt;
+        
+      &lt;/div&gt;
+      &lt;/header&gt;&lt;div class="node__content clearfix"&gt;
+      &lt;div class="node__links"&gt;
+    &lt;ul class="links inline"&gt;&lt;li class="node-readmore"&gt;&lt;a href="https://mikeryan.name/blog-entry/wired-triplefail" rel="tag" title="Wired #triplefail" hreflang="und"&gt;Read more&lt;span class="visually-hidden"&gt; about Wired #triplefail&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;I've subscribed to the Wired print edition for years. I knew they had an iPad edition for a while (being total Apple fanboys), but I've got a Google Nexus 10 tablet. In the latest issue I saw "Get the digital edition of WIRED for your tablet at &lt;a href="http://bit.ly/tabletwired"&gt;bit.ly/tabletWIRED&lt;/a&gt; (note the all-caps magazine name, which doesn't actually work - you need to go with all lower-case - I'm not even counting that one). Great, I thought, they finally have Android support. Here I pick up with the feedback I attempted to send from &lt;a href="http://www.wired.com/about/feedback"&gt;http://www.wired.com/about/feedback&lt;/a&gt; (clicked under TABLET):&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;
+Went to the tablets page on my Nexus, only to find that you support the Kindle Fire but not other Android tablets. Clicked the FAQ link to try to find your excuse, got 404'd. #doublefail
+&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Submitting that gave me a WSOD at &lt;a href="https://w1.buysub.com/servlet/Transaction"&gt;https://w1.buysub.com/servlet/Transaction&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;/article&gt;</description>
+  <pubDate>Mon, 19 May 2014 16:12:34 +0000</pubDate>
+    <dc:creator>mikeryan</dc:creator>
+    <guid isPermaLink="false">5614 at https://mikeryan.name</guid>
+    </item>
+
+  </channel>
+</rss>

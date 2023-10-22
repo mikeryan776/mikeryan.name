@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="https://mikeryan.name/rss.xml">
+  <channel>
+    <title>Mike Ryan</title>
+    <link>https://mikeryan.name/rss.xml</link>
+    <description/>
+    <language>en</language>
+    
+    <item>
+  <title>Relaunch 2018</title>
+  <link>https://mikeryan.name/blog-entry/relaunch-2018</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Relaunch 2018&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://mikeryan.name/user/mikeryan" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;mikeryan&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Tue, 02/27/2018 - 3:04pm&lt;/span&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;At long last I've upgraded mikeryan.name to Drupal 8. In the process, I've migrated all my Drupal- (and other tech-) related posts over to &lt;a href="http://virtuoso-performance.com"&gt;virtuoso-performance.com&lt;/a&gt;, leaving this site for personal commentary. Since it's been a long while since I've done such commentary, this site looks awfully thin at the moment. We'll see whether or not my aspiration to blog more often comes to fruition...&lt;/p&gt;
+&lt;/div&gt;
+      </description>
+  <pubDate>Tue, 27 Feb 2018 21:04:00 +0000</pubDate>
+    <dc:creator>mikeryan</dc:creator>
+    <guid isPermaLink="false">5672 at https://mikeryan.name</guid>
+    </item>
+<item>
+  <title>Wired #triplefail</title>
+  <link>https://mikeryan.name/blog-entry/wired-triplefail</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Wired #triplefail&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://mikeryan.name/user/mikeryan" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;mikeryan&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Mon, 05/19/2014 - 11:12am&lt;/span&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;I've subscribed to the Wired print edition for years. I knew they had an iPad edition for a while (being total Apple fanboys), but I've got a Google Nexus 10 tablet. In the latest issue I saw "Get the digital edition of WIRED for your tablet at &lt;a href="http://bit.ly/tabletwired"&gt;bit.ly/tabletWIRED&lt;/a&gt; (note the all-caps magazine name, which doesn't actually work - you need to go with all lower-case - I'm not even counting that one). Great, I thought, they finally have Android support. Here I pick up with the feedback I attempted to send from &lt;a href="http://www.wired.com/about/feedback"&gt;http://www.wired.com/about/feedback&lt;/a&gt; (clicked under TABLET):&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;
+Went to the tablets page on my Nexus, only to find that you support the Kindle Fire but not other Android tablets. Clicked the FAQ link to try to find your excuse, got 404'd. #doublefail
+&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Submitting that gave me a WSOD at &lt;a href="https://w1.buysub.com/servlet/Transaction"&gt;https://w1.buysub.com/servlet/Transaction&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+      &lt;div class="field field--name-field-tags field--type-entity-reference field--label-hidden clearfix"&gt;
+    &lt;ul class="links field__items"&gt;&lt;li&gt;&lt;a href="https://mikeryan.name/tags/wired" hreflang="en"&gt;Wired&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;&lt;/div&gt;
+</description>
+  <pubDate>Mon, 19 May 2014 16:12:34 +0000</pubDate>
+    <dc:creator>mikeryan</dc:creator>
+    <guid isPermaLink="false">5614 at https://mikeryan.name</guid>
+    </item>
+<item>
+  <title>The Choice</title>
+  <link>https://mikeryan.name/blog-entry/choice</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;The Choice&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://mikeryan.name/user/mikeryan" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;mikeryan&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Wed, 10/29/2008 - 6:02pm&lt;/span&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;
+When the party nominees emerged, I was for the first time in my life satisfied with the choice before me. I've been voting in Presidential elections since 1980, and had never before seen both parties nominate candidates who I respected, and expected to serve well. Neither was perfect - for someone who leans increasingly in the &lt;a href="http://reason.com/"&gt;libertarian direction&lt;/a&gt;, &lt;a href="http://www.johnmccain.com/"&gt;John McCain's&lt;/a&gt; eagerness to apply governmental power abroad, and &lt;a href="http://www.barackobama.com/"&gt;Barack Obama's&lt;/a&gt; enthusiasm for applying it domestically, were off-putting. But I felt they were both competent men of good character - and in 2008 that means more than ideological compatibility.
+&lt;/p&gt;
+&lt;p&gt;
+Nevertheless, I did not dwell long on my decision. Whatever happens Tuesday, I fully expect at least basic competence for the next four years. Both candidates are capable of going down in history as good Presidents. But it's Obama who has the potential to be a great President.
+&lt;/p&gt;
+&lt;p&gt;
+One reason is simply the biggest element that separates good leaders from great ones - inspiration. John McCain may be able to effectively manage the country through the next four or eight years; he might accomplish many positive things; but I don't see him nurturing the optimism to pull us out of our economic doldrums, I don't hear him leading us back to international respect, and I don't feel a national consensus forming behind him. Barack Obama has that ability - the capacity to form a new American consensus, a direction forward into the 21st century.
+&lt;/p&gt;
+&lt;p&gt;
+The other major reason Obama can be one of the great Presidents is - yes - his race. Slavery, segregation, and discrimination have a long and ignominious history in our nation - that is the biggest contradiction to our status as a worldwide beacon of liberty. No single event will do more to redeem that legacy, to culminate the progress we have made, than the election of an African-American President. Consequently, of course, the Presidency would be an even greater burden on Obama's shoulders than on most - a failed administration would be severely damaging. Although I do believe he has the personal skills to succeed, the morass of Iraq and the depths of a new Depression could very well sink his Presidency. Those same risks, of course, await McCain, and I have not seen any evidence in this campaign that he would weather them any better.
+&lt;/p&gt;
+&lt;p&gt;
+And, speaking of the compaign, let me turn back to John McCain. As I said before, I started out with respect for him - he was a legitimate maverick within his party (and both parties could certainly use more of those), and whether I agreed with him or not he did seem to vote for his principles, not for misguided partisan loyalty. But, as he's abandoned the rational immigration policy he had supported, as he's compromised on torture, and mostly as he's sunk to the same ugly style of campaigning that was used against him in the 2000 primaries... It's become hard to maintain that respect.
+&lt;/p&gt;
+&lt;p&gt;
+P.S.:  What do the &lt;a href="http://www.johnmccain.com/SplashTV/splash.htm"&gt;McCain&lt;/a&gt; and &lt;a href="http://www.barackobama.com/"&gt;Obama&lt;/a&gt; home pages have in common? They're both about Barack Obama...
+&lt;/p&gt;
+&lt;p&gt;
+ 
+&lt;/p&gt;
+&lt;/div&gt;
+      &lt;div class="field field--name-field-tags field--type-entity-reference field--label-hidden clearfix"&gt;
+    &lt;ul class="links field__items"&gt;&lt;li&gt;&lt;a href="https://mikeryan.name/tags/politics" hreflang="en"&gt;Politics&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;&lt;/div&gt;
+</description>
+  <pubDate>Wed, 29 Oct 2008 23:02:05 +0000</pubDate>
+    <dc:creator>mikeryan</dc:creator>
+    <guid isPermaLink="false">2509 at https://mikeryan.name</guid>
+    </item>
+<item>
+  <title>NOLA Day 7 - 5/2/08</title>
+  <link>https://mikeryan.name/blog-entry/nola-day-7-5208</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;NOLA Day 7 - 5/2/08&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://mikeryan.name/user/mikeryan" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;mikeryan&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Wed, 06/11/2008 - 9:27pm&lt;/span&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;
+Friday was our last work day. This one was, again, helping out a FUUNO church member, who is having a new home built by Habitat for Humanity:
+&lt;/p&gt;
+&lt;p&gt;
+ 
+&lt;/p&gt;
+&lt;div style="text-align: center"&gt;
+&lt;img src="https://mikeryan.name/sites/default/files/u3/NOLA%2020080502%2001.jpg" alt="Habitat for Humanity" title="Habitat for Humanity" width="600" height="450" /&gt; 
+&lt;/div&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;
+ 
+&lt;/p&gt;
+&lt;p&gt;
+We worked on the framing inside:
+&lt;/p&gt;
+&lt;p align="center"&gt;
+&lt;img src="https://mikeryan.name/sites/default/files/u3/NOLA%2020080502%2002.jpg" alt="Framework" title="Framework" width="300" height="225" /&gt;&lt;img src="https://mikeryan.name/sites/default/files/u3/NOLA%2020080502%2003.jpg" alt="Framework" title="Framework" width="300" height="225" /&gt;&lt;/p&gt;
+&lt;p align="center"&gt;
+ 
+&lt;/p&gt;
+&lt;p&gt;
+Here's Cherie with our crew and a quilt one of our party made for her:
+&lt;/p&gt;
+&lt;p&gt;
+ 
+&lt;/p&gt;
+&lt;div style="text-align: center"&gt;
+&lt;img src="https://mikeryan.name/sites/default/files/u3/NOLA%2020080502%2004.jpg" alt="Cherie, her home, and her quilt" title="Cherie, her home, and her quilt" width="300" height="400" /&gt;&lt;img src="https://mikeryan.name/sites/default/files/u3/NOLA%2020080502%2005.jpg" alt="Cherie, her home, and her quilt" title="Cherie, her home, and her quilt" width="300" height="400" /&gt;&lt;/div&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;
+ 
+&lt;/p&gt;
+&lt;p&gt;
+We went to JazzFest again, starting with Richard Thompson:
+&lt;/p&gt;
+&lt;p align="center"&gt;
+&lt;img src="https://mikeryan.name/sites/default/files/u3/NOLA%2020080502%2006.jpg" alt="Richard Thompson" title="Richard Thompson" width="300" height="225" /&gt;&lt;img src="https://mikeryan.name/sites/default/files/u3/NOLA%2020080502%2007.jpg" alt="Richard Thompson" title="Richard Thompson" width="300" height="225" /&gt;&lt;/p&gt;
+&lt;p&gt;
+After that, it was over to the Fais Do Do stage for &lt;a href="http://www.chubbycarrier.com/" title="Chubby Carrier"&gt;Chubby Carrier and the Bayou Swamp Band&lt;/a&gt;. We still can't purge "Ain't no party like a Chubby party, 'cause a Chubby party don't stop" from our ears:
+&lt;/p&gt;
+&lt;p align="center"&gt;
+&lt;img src="https://mikeryan.name/sites/default/files/u3/NOLA%2020080502%2009.jpg" alt="Chubby Carrier at JazzFest" title="Chubby Carrier at JazzFest" width="300" height="225" /&gt;&lt;img src="https://mikeryan.name/sites/default/files/u3/NOLA%2020080502%2010.jpg" alt="Chubby Carrier at JazzFest" title="Chubby Carrier at JazzFest" width="300" height="225" /&gt;&lt;/p&gt;
+&lt;p align="center"&gt;
+ 
+&lt;/p&gt;
+&lt;p&gt;
+But... The highlight of JazzFest was the one, the only... Mr. Stevie Wonder:
+&lt;/p&gt;
+&lt;p align="center"&gt;
+&lt;img src="https://mikeryan.name/sites/default/files/u3/NOLA%2020080502%2011.jpg" alt="Stevie Wonder at JazzFest" title="Stevie Wonder at JazzFest" width="300" height="225" /&gt;&lt;img src="https://mikeryan.name/sites/default/files/u3/NOLA%2020080502%2012.jpg" alt="Stevie Wonder at JazzFest" title="Stevie Wonder at JazzFest" width="300" height="225" /&gt;&lt;/p&gt;
+&lt;p align="center"&gt;
+&lt;img src="https://mikeryan.name/sites/default/files/u3/NOLA%2020080502%2013.jpg" alt="Stevie Wonder at JazzFest" title="Stevie Wonder at JazzFest" width="300" height="225" /&gt;&lt;img src="https://mikeryan.name/sites/default/files/u3/NOLA%2020080502%2014.jpg" alt="Stevie Wonder at JazzFest" title="Stevie Wonder at JazzFest" width="300" height="225" /&gt;&lt;/p&gt;
+&lt;p&gt;
+Not many artists can pack two hours full of hits and still leave stuff on the table... Highlights included a jazz digression (Giant Steps) and an incredible harmonica jam with &lt;a href="http://www.fredyonnet.com/" title="Frederic Yonnet"&gt;Frederic Yonnet&lt;/a&gt;, not to mention a guest appearance by Irma Thomas (see last photo above).
+&lt;/p&gt;
+&lt;/div&gt;
+      &lt;div class="field field--name-field-tags field--type-entity-reference field--label-hidden clearfix"&gt;
+    &lt;ul class="links field__items"&gt;&lt;li&gt;&lt;a href="https://mikeryan.name/tags/music" hreflang="en"&gt;Music&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href="https://mikeryan.name/tags/nola" hreflang="en"&gt;NOLA&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href="https://mikeryan.name/tags/travel" hreflang="en"&gt;Travel&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;&lt;/div&gt;
+</description>
+  <pubDate>Thu, 12 Jun 2008 02:27:40 +0000</pubDate>
+    <dc:creator>mikeryan</dc:creator>
+    <guid isPermaLink="false">1000 at https://mikeryan.name</guid>
+    </item>
+<item>
+  <title>NOLA Day 6 - 5/1/08</title>
+  <link>https://mikeryan.name/blog-entry/nola-day-6-5108</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;NOLA Day 6 - 5/1/08&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://mikeryan.name/user/mikeryan" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;mikeryan&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Wed, 06/11/2008 - 8:58pm&lt;/span&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;
+Thursday morning we continued our drywalling and firestopping in the Ninth Ward. Sorry, looks like I didn't get any more photos... In the afternoon, we returned to JazzFest. First up: Randy Newman, who performed a great set - of course, Lousiana 1927 was featured, but he also had some good new material. Including the audience participatory &lt;strong&gt;I'm Dead (But I Don't Know It)&lt;/strong&gt;.
+&lt;/p&gt;
+&lt;p align="center"&gt;
+&lt;img src="https://mikeryan.name/sites/default/files/u3/NOLA%2020080501%201.jpg" alt="Randy Newman at JazzFest" title="Randy Newman at JazzFest" width="300" height="225" /&gt;&lt;img src="https://mikeryan.name/sites/default/files/u3/NOLA%2020080501%202.jpg" alt="Randy Newman at JazzFest" title="Randy Newman at JazzFest" width="300" height="225" /&gt;&lt;/p&gt;
+&lt;p&gt;
+And that was followed by a trip to the Fais Do Do stage for CJ Chenier:
+&lt;/p&gt;
+&lt;p align="center"&gt;
+&lt;img src="https://mikeryan.name/sites/default/files/u3/NOLA%2020080501%203.jpg" alt="CJ Chenier at JazzFest" title="CJ Chenier at JazzFest" width="300" height="225" /&gt;&lt;img src="https://mikeryan.name/sites/default/files/u3/NOLA%2020080501%204.jpg" alt="CJ Chenier at JazzFest" title="CJ Chenier at JazzFest" width="300" height="225" /&gt;&lt;/p&gt;
+&lt;p&gt;
+ On the way back, I was admiring this old-school neon sign on Canal Street:
+&lt;/p&gt;
+&lt;p align="center"&gt;
+&lt;img src="https://mikeryan.name/sites/default/files/u3/NOLA%2020080501%205.jpg" alt="Neon" title="Neon" width="450" height="600" /&gt; 
+&lt;/p&gt;
+&lt;/div&gt;
+      &lt;div class="field field--name-field-tags field--type-entity-reference field--label-hidden clearfix"&gt;
+    &lt;ul class="links field__items"&gt;&lt;li&gt;&lt;a href="https://mikeryan.name/tags/nola" hreflang="en"&gt;NOLA&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href="https://mikeryan.name/tags/travel" hreflang="en"&gt;Travel&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href="https://mikeryan.name/tags/music" hreflang="en"&gt;Music&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;&lt;/div&gt;
+</description>
+  <pubDate>Thu, 12 Jun 2008 01:58:33 +0000</pubDate>
+    <dc:creator>mikeryan</dc:creator>
+    <guid isPermaLink="false">999 at https://mikeryan.name</guid>
+    </item>
+<item>
+  <title>NOLA Day 5 - 4/30/08</title>
+  <link>https://mikeryan.name/blog-entry/nola-day-5-43008</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;NOLA Day 5 - 4/30/08&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://mikeryan.name/user/mikeryan" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;mikeryan&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Wed, 06/11/2008 - 8:12pm&lt;/span&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;
+So, that Wednesday we moved on the the Lower Ninth Ward. A group called &lt;a href="http://lowernine.org/" title="lowernine.org"&gt;lowernine.org&lt;/a&gt; is working on rebuilding homes in the most heavily devastated neighborhood in New Orleans, and we did our small part Wednesday and Thursday. Here's the house we were working on:
+&lt;/p&gt;
+&lt;p&gt;
+ 
+&lt;/p&gt;
+&lt;div style="text-align: center"&gt;
+&lt;img src="https://mikeryan.name/sites/default/files/u3/NOLA%2020080430%201.jpg" alt="House in Lower Ninth Ward" title="House in Lower Ninth Ward" width="450" height="600" /&gt;&lt;/div&gt;
+&lt;p&gt;
+ 
+&lt;/p&gt;
+&lt;p&gt;
+Walking between the lowernine.org headquarters and the house above, we met this puppy named Money:
+&lt;/p&gt;
+&lt;p&gt;
+ 
+&lt;/p&gt;
+&lt;div style="text-align: center"&gt;
+&lt;img src="https://mikeryan.name/sites/default/files/u3/NOLA%2020080430%202.jpg" alt="Money" title="Money" width="450" height="600" /&gt;&lt;/div&gt;
+&lt;p&gt;
+ 
+&lt;/p&gt;
+&lt;p&gt;
+Now, although it seemed like there was barely one or two occupied houses per block, some essential services are provided (primarily for the benefit of the work crews, I think):
+&lt;/p&gt;
+&lt;p&gt;
+ 
+&lt;/p&gt;
+&lt;div style="text-align: center"&gt;
+&lt;img src="https://mikeryan.name/sites/default/files/u3/NOLA%2020080430%203.jpg" alt="Ice cream van in Lower Ninth" title="Ice cream van in Lower Ninth" width="600" height="450" /&gt;&lt;/div&gt;
+&lt;p&gt;
+ 
+&lt;/p&gt;
+&lt;p&gt;
+Inside the house, Sarah was focused on drywall while I worked on installed firestops:
+&lt;/p&gt;
+&lt;p align="center"&gt;
+&lt;img src="https://mikeryan.name/sites/default/files/u3/NOLA%2020080430%205.jpg" alt="Drywall" title="Drywall" width="300" height="225" /&gt;&lt;img src="https://mikeryan.name/sites/default/files/u3/NOLA%2020080430%204.jpg" alt="Fresh firestops" title="Fresh firestops" width="300" height="225" /&gt;&lt;/p&gt;
+&lt;p&gt;
+Finally, at the end of our Wednesday shift, our fearless lowernine.org supervisors demonstrated teamwork in this window repair.
+&lt;/p&gt;
+&lt;p&gt;
+ 
+&lt;/p&gt;
+&lt;div style="text-align: center"&gt;
+&lt;img src="https://mikeryan.name/sites/default/files/u3/NOLA%2020080430%206.jpg" alt="John lends Ben a hand or two" title="John lends Ben a hand or two" width="450" height="600" /&gt;&lt;/div&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;
+ 
+&lt;/p&gt;
+&lt;/div&gt;
+      &lt;div class="field field--name-field-tags field--type-entity-reference field--label-hidden clearfix"&gt;
+    &lt;ul class="links field__items"&gt;&lt;li&gt;&lt;a href="https://mikeryan.name/tags/nola" hreflang="en"&gt;NOLA&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href="https://mikeryan.name/tags/travel" hreflang="en"&gt;Travel&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;&lt;/div&gt;
+</description>
+  <pubDate>Thu, 12 Jun 2008 01:12:50 +0000</pubDate>
+    <dc:creator>mikeryan</dc:creator>
+    <guid isPermaLink="false">998 at https://mikeryan.name</guid>
+    </item>
+<item>
+  <title>NOLA Day 4 - 4/29/08</title>
+  <link>https://mikeryan.name/blog-entry/nola-day-4-42908</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;NOLA Day 4 - 4/29/08&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://mikeryan.name/user/mikeryan" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;mikeryan&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Tue, 06/03/2008 - 8:40pm&lt;/span&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;
+Back to work for the 2nd day. Checking in at &lt;a href="http://www.firstuuno.org/"&gt;FUUNO&lt;/a&gt;, we caught Christ and Noe (among others) in action:
+&lt;/p&gt;
+&lt;p&gt;
+&lt;img src="https://mikeryan.name/sites/default/files/u3/NOLA%2020080429%201_0.jpg" alt="Chris at FUUNO" width="250" height="333" /&gt;&lt;img src="https://mikeryan.name/sites/default/files/u3/NOLA%2020080429%202_0.jpg" alt="Noe at FUUNO" width="250" height="333" /&gt;&lt;/p&gt;
+&lt;p&gt;
+Back in Jyaphia's kitchen, we finished the destructive part of the work (always fun), and did some constructive work (framing around the waste pipe):
+&lt;/p&gt;
+&lt;p&gt;
+&lt;img src="https://mikeryan.name/sites/default/files/u3/NOLA%2020080429%203.jpg" alt="Jyaphia's kitchen" width="250" height="333" /&gt;&lt;img src="https://mikeryan.name/sites/default/files/u3/NOLA%2020080429%204.jpg" alt="Jyaphia's kitchen" width="250" height="333" /&gt;&lt;/p&gt;
+&lt;p&gt;
+And, of course, we had to pose in front of our hard work:
+&lt;/p&gt;
+&lt;p&gt;
+&lt;img src="https://mikeryan.name/sites/default/files/u3/NOLA%2020080429%205.jpg" alt="Sarah and Donald" width="250" height="333" /&gt;&lt;img src="https://mikeryan.name/sites/default/files/u3/NOLA%2020080429%208.jpg" alt="Donald and Mike" width="250" height="333" /&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;img src="https://mikeryan.name/sites/default/files/u3/NOLA%2020080429%206.jpg" alt="Sarah and Mike" width="250" height="333" /&gt;&lt;img src="https://mikeryan.name/sites/default/files/u3/NOLA%2020080429%207.jpg" alt="Sarah and Mike" width="250" height="333" /&gt;&lt;/p&gt;
+&lt;p&gt;
+ Later that evening, the whole group went out to celebrate Lois's birthday at the Pyramid Cafe. I captured this surrealistic snapshot of Noe:
+&lt;/p&gt;
+&lt;p&gt;
+ 
+&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://mikeryan.name/sites/default/files/u3/NOLA%2020080429%209.jpg" alt="Noe at Pyramid Cafe" width="250" height="333" /&gt;&lt;/p&gt;&lt;p&gt;
+ 
+&lt;/p&gt;
+&lt;p&gt;
+ 
+&lt;/p&gt;
+&lt;/div&gt;
+      &lt;div class="field field--name-field-tags field--type-entity-reference field--label-hidden clearfix"&gt;
+    &lt;ul class="links field__items"&gt;&lt;li&gt;&lt;a href="https://mikeryan.name/tags/nola" hreflang="en"&gt;NOLA&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href="https://mikeryan.name/tags/travel" hreflang="en"&gt;Travel&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;&lt;/div&gt;
+</description>
+  <pubDate>Wed, 04 Jun 2008 01:40:46 +0000</pubDate>
+    <dc:creator>mikeryan</dc:creator>
+    <guid isPermaLink="false">938 at https://mikeryan.name</guid>
+    </item>
+<item>
+  <title>NOLA Day 3 - 4/28/08</title>
+  <link>https://mikeryan.name/blog-entry/nola-day-3-42808</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;NOLA Day 3 - 4/28/08&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://mikeryan.name/user/mikeryan" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;mikeryan&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Tue, 06/03/2008 - 8:17pm&lt;/span&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;
+So, on Monday we got down to work. The volunteers gathered at &lt;a href="http://www.firstuuno.org/"&gt;FUUNO&lt;/a&gt;, and split into three groups. One group worked at the church, and one went to another location that I don't recall. Here are some before photos at the church (afraid I didn't get any after), where they are building a commercial kitchen (you can see the sanctuary through the framing in the last photo):
+&lt;/p&gt;
+&lt;p&gt;
+&lt;img src="https://mikeryan.name/sites/default/files/u3/NOLA%2020080428%201.jpg" alt="FUUCO" width="225" height="300" /&gt;&lt;img src="https://mikeryan.name/sites/default/files/u3/NOLA%2020080428%202.jpg" alt="FUUCO" width="300" height="225" /&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;img src="https://mikeryan.name/sites/default/files/u3/NOLA%2020080428%203.jpg" alt="FUUCO" width="300" height="225" /&gt;&lt;img src="https://mikeryan.name/sites/default/files/u3/NOLA%2020080428%204.jpg" alt="FUUCO" width="300" height="225" /&gt;&lt;/p&gt;
+&lt;p&gt;
+ Sarah and I (along with the inimitable, and very tall, Donald) went to Jyaphia's house. She does a lot of cooking for the church and its programs, so our mission was to help expand her kitchen by knocking out a wall to the pantry so the refrigerator could be pushed back into it. Here's the nearly-before photo (I was a little behind in snapping it), with Donald taking some pokes at the wall:
+&lt;/p&gt;
+&lt;p&gt;
+ 
+&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://mikeryan.name/sites/default/files/u3/NOLA%2020080428%205.jpg" alt="Donald at Jyaphia's house" width="600" height="800" /&gt;&lt;/p&gt;&lt;p&gt;
+ 
+&lt;/p&gt;
+&lt;p&gt;
+ 
+&lt;/p&gt;
+&lt;/div&gt;
+      &lt;div class="field field--name-field-tags field--type-entity-reference field--label-hidden clearfix"&gt;
+    &lt;ul class="links field__items"&gt;&lt;li&gt;&lt;a href="https://mikeryan.name/tags/nola" hreflang="en"&gt;NOLA&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href="https://mikeryan.name/tags/travel" hreflang="en"&gt;Travel&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;&lt;/div&gt;
+</description>
+  <pubDate>Wed, 04 Jun 2008 01:17:31 +0000</pubDate>
+    <dc:creator>mikeryan</dc:creator>
+    <guid isPermaLink="false">937 at https://mikeryan.name</guid>
+    </item>
+<item>
+  <title>NOLA day 2 - 4/27/08</title>
+  <link>https://mikeryan.name/blog-entry/nola-day-2-42708</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;NOLA day 2 - 4/27/08&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://mikeryan.name/user/mikeryan" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;mikeryan&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Tue, 06/03/2008 - 7:36pm&lt;/span&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;
+On to our 2nd day in New Orleans (at this rate, I should have the week finished by Christmas!). First thing, of course, we visited &lt;a href="http://www.cafedumonde.com/"&gt;Cafe du Monde&lt;/a&gt; (no visit to NOLA is complete without a plate of their beignets, wallowing through ankle-deep powdered sugar). In the morning we attended services at &lt;a href="http://www.firstuuno.org/"&gt;FUUNO&lt;/a&gt;, then in the afternoon we went to &lt;a href="http://www.nojazzfest.com/"&gt;JazzFest&lt;/a&gt;. We arrived just as the crowds burst, and I remembered the lesson I should have taken home from my 2006 visit - don't wear sneakers unless the forecast is bonedry. The Fairgrounds quickly turned into ankle-deep mud. We took refuge first in the CD tent, then made a dash for the Blues Tent. We caught a bit of Roy Young there:
+&lt;/p&gt;
+&lt;p&gt;
+ 
+&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://mikeryan.name/sites/default/files/u3/NOLA%2020080427%202_0.jpg" alt="Roy Young at JazzFest" width="600" height="450" /&gt;&lt;/p&gt;&lt;p&gt;
+ 
+&lt;/p&gt;
+&lt;p&gt;
+At the lower right, what you're looking at is a pond where one would expect an aisle to be - a large garbage can was floating in it.
+&lt;/p&gt;
+&lt;p&gt;
+We didn't get to see much of Roy, as we were eager to see the great Irma Thomas:
+&lt;/p&gt;
+&lt;p&gt;
+&lt;img src="https://mikeryan.name/sites/default/files/u3/NOLA%2020080427%203.jpg" alt="Irma Thomas at JazzFest" width="300" height="225" /&gt;&lt;img src="https://mikeryan.name/sites/default/files/u3/NOLA%2020080427%204.jpg" alt="Irma Thomas at JazzFest" width="300" height="225" /&gt;&lt;/p&gt;
+&lt;p&gt;
+Late in the set she was joined by the nearly-as-great Marcia Ball:
+&lt;/p&gt;
+&lt;p&gt;
+&lt;img src="https://mikeryan.name/sites/default/files/u3/NOLA%2020080427%205.jpg" alt="Irma Thomas and Marcia Ball at JazzFest" width="300" height="225" /&gt;&lt;img src="https://mikeryan.name/sites/default/files/u3/NOLA%2020080427%206.jpg" alt="Irma Thomas and Marcia Ball at JazzFest" width="300" height="225" /&gt;&lt;/p&gt;
+&lt;p&gt;
+From there, on to Elvis Costello and Allen Toussaint:
+&lt;/p&gt;
+&lt;p&gt;
+&lt;img src="https://mikeryan.name/sites/default/files/u3/NOLA%2020080427%207.jpg" alt="Elvis Costello and Allen Toussaint at JazzFest" width="300" height="225" /&gt;&lt;img src="https://mikeryan.name/sites/default/files/u3/NOLA%2020080427%208.jpg" alt="Elvis Costello and Allen Toussaint at JazzFest" width="300" height="225" /&gt;&lt;/p&gt;
+&lt;p&gt;
+And we finished the day with the incomparable Al Green (yes, he's still got it!):
+&lt;/p&gt;
+&lt;p&gt;
+ 
+&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://mikeryan.name/sites/default/files/u3/NOLA%2020080427%209.jpg" alt="Al Green at JazzFest" width="600" height="450" /&gt;&lt;/p&gt;&lt;p&gt;
+ 
+&lt;/p&gt;
+&lt;p&gt;
+ 
+&lt;/p&gt;
+&lt;/div&gt;
+      &lt;div class="field field--name-field-tags field--type-entity-reference field--label-hidden clearfix"&gt;
+    &lt;ul class="links field__items"&gt;&lt;li&gt;&lt;a href="https://mikeryan.name/tags/music" hreflang="en"&gt;Music&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href="https://mikeryan.name/tags/nola" hreflang="en"&gt;NOLA&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href="https://mikeryan.name/tags/travel" hreflang="en"&gt;Travel&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;&lt;/div&gt;
+</description>
+  <pubDate>Wed, 04 Jun 2008 00:36:39 +0000</pubDate>
+    <dc:creator>mikeryan</dc:creator>
+    <guid isPermaLink="false">934 at https://mikeryan.name</guid>
+    </item>
+<item>
+  <title>NOLA day 1 - 4/26/08</title>
+  <link>https://mikeryan.name/blog-entry/nola-day-1-42608</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;NOLA day 1 - 4/26/08&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://mikeryan.name/user/mikeryan" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;mikeryan&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Mon, 05/12/2008 - 7:39pm&lt;/span&gt;
+
+            &lt;div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;
+Sarah and I got back a week ago from a week in New Orleans, and I've finally got a little time to start writing about it. &lt;a href="http://www.ascboston.org/" title="Arlington Street Church, Boston"&gt;Arlington Street Church&lt;/a&gt;, where Sarah is very active, has a partner church in NOLA - &lt;a href="http://www.firstuuno.org/" title="First Church New Orleans"&gt;First Unitarian Universalist Church of New Orleans&lt;/a&gt;,  in the Broadmoor neighborhood. She's a member of the PC&lt;sup&gt;3&lt;/sup&gt; (Partner Church Coordinating Committee), which organizes regular trips to help rebuild. This was Sarah's fourth of the five trips taken so far, and my first.
+&lt;/p&gt;
+&lt;p&gt;
+This trip was, not entirely coincidentally, the week spanning the two weekends of the &lt;a href="http://www.nojazzfest.com/" title="New Orleans Jazz &amp; Heritage Festival"&gt;New Orleans Jazz &amp; Heritage Festival&lt;/a&gt; (JazzFest to all who know and love it). Sarah's first JazzFest, my second (I went in 2006 - the first one after Katrina).
+&lt;/p&gt;
+&lt;p&gt;
+We stayed at the &lt;a href="http://www.annunciationmission.org/" title="Annunciation Mission"&gt;Annunciation Mission&lt;/a&gt;, close to First Church on Claiborne. They provide food and lodging for volunteer groups - a clean, safe place to stay, with three square meals a day, for only $20/night.
+&lt;/p&gt;
+&lt;p&gt;
+We arrived Saturday, and wandered around a bit. My friend Jim Duffy has a bit of an obsession with old serial murder cases, and had been telling me about the &lt;a href="http://en.wikipedia.org/wiki/Axeman_of_new_orleans" title="Axeman of New Orleans"&gt;Axeman of New Orleans&lt;/a&gt;, who terrorized the city in 1918-19. We took a ride past one of the sites mentioned in the Wikipedia article, Upperline and Magnolia - the article wasn't specific about which corner the victims lived on, but we snapped a photo of the oldest building at the intersection:
+&lt;/p&gt;
+&lt;p&gt;
+ 
+&lt;/p&gt;
+&lt;div style="text-align: center"&gt;
+&lt;img src="https://mikeryan.name/sites/default/files/u3/NOLA%2020080426%201.jpg" alt="Axeman of New Orleans" title="Axeman of New Orleans" width="600" height="481" /&gt;&lt;/div&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;
+ 
+&lt;/p&gt;
+&lt;p&gt;
+Pardon my indulging in sepia...
+&lt;/p&gt;
+&lt;p&gt;
+Oh, and we caught lunch at Ted's Frostop, known (these days, anyway) for the &lt;a href="http://thethirdbattleofneworleans.blogspot.com/2006/08/teds-frostop-proudly-home-of-upside.htmlhttp://thethirdbattleofneworleans.blogspot.com/2006/08/teds-frostop-proudly-home-of-upside.html"&gt;giant upside-down root beer&lt;/a&gt; out front (toppled by Katrina).
+&lt;/p&gt;
+&lt;p&gt;
+It ended up raining hard that Saturday, so we visited the &lt;a href="http://www.noma.org/" title="NOMA"&gt;New Orleans Museum of Art&lt;/a&gt;. Highlights were the &lt;a href="http://www.georgerodrigue.com/" title="George Rodrigue"&gt;George Rodrigue&lt;/a&gt; exhibit (all the Blue Dogs you would ever hope to see), and works by Judy Cooper.
+&lt;/p&gt;
+&lt;p&gt;
+More to come...
+&lt;/p&gt;
+&lt;p&gt;
+ 
+&lt;/p&gt;
+&lt;/div&gt;
+      &lt;div class="field field--name-field-tags field--type-entity-reference field--label-hidden clearfix"&gt;
+    &lt;ul class="links field__items"&gt;&lt;li&gt;&lt;a href="https://mikeryan.name/tags/nola" hreflang="en"&gt;NOLA&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href="https://mikeryan.name/tags/travel" hreflang="en"&gt;Travel&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;&lt;/div&gt;
+</description>
+  <pubDate>Tue, 13 May 2008 00:39:40 +0000</pubDate>
+    <dc:creator>mikeryan</dc:creator>
+    <guid isPermaLink="false">745 at https://mikeryan.name</guid>
+    </item>
+
+  </channel>
+</rss>
